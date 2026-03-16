@@ -22,7 +22,10 @@
     "imagePathname": "storage/assets/packs/images/1773697218862-new5ly-Portada.jpeg",
     "galleryPathnames": [],
     "isAvailable": true,
-    "purchaseCount": 0,
-    "createdAt": "2026-03-16T21:40:20.441Z"
+    "purchaseCount": 1,
+    "createdAt": "2026-03-16T21:40:20.441Z",
+    "_countedIntents": [
+      "pi_3TBivGEHtBrZ5DBs1LkcSI5O"
+    ]
   }
 ]
