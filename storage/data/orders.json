@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "token": "2476566de440f971a21ebf8ca17c7dc03fdf18a3931cfba4840519ed40aa57da",
+    "sessionId": "cs_test_a1J3pFm1YhcwmOLhD6Gxj1EyOckDydrJoQGSlsc2M5IhnfbUqdkHSM2fmt",
+    "paymentIntent": "",
+    "packId": "pack-mmtpj2ah-nk9wji",
+    "packName": "PACK 01: NATURALEZA HOSTIL | Premium Vector Bundle",
+    "buyerName": "Oscar",
+    "buyerEmail": "oscarinlara87@gmail.com",
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/pack-branding-v1/PACK.01.NATURALEZA.HOSTIL.zip",
+    "fileName": "",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773697218862-new5ly-Portada.jpeg",
+    "price": 350,
+    "currency": "MXN",
+    "status": "pending",
+    "checkoutUrl": "https://checkout.stripe.com/c/pay/cs_test_a1J3pFm1YhcwmOLhD6Gxj1EyOckDydrJoQGSlsc2M5IhnfbUqdkHSM2fmt#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blpxYHZxWjA0VmZAY3BATXFHd18wQUd2MlY2fVU0QzIzf0BmTG5rRjR3fGFtV0czPGZ2aEhAX2JIQ2R%2FTVJ%2FX31KfH1IbF1WMlNsfHdsTmlxXT1LSEtQN1BLUXxwbmhtNTVdVFdgTDBgPCcpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl",
+    "purchasedAt": "2026-03-16T21:41:45.000Z",
+    "createdAt": "2026-03-16T21:41:45.543Z",
+    "updatedAt": "2026-03-16T21:41:45.607Z"
+  }
+]
