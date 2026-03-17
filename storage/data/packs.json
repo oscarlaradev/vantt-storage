@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "pack-mmtvnbn9-1bltc7",
+    "name": "PACK 01: NATURALEZA HOSTIL | Premium Vector Bundle",
+    "description": "La naturaleza no es pacífica; es letal, calculada y perfecta. El Pack 01: Naturaleza Hostil es una colección de diseño Avant-Garde que fusiona la brutalidad del mundo natural con la precisión de la ingeniería y la topografía. Olvídate de los gráficos genéricos. Cada pieza de esta colección presenta nuestro característico efecto de \"derretido líquido premium\": líneas técnicas de alto contraste que se disuelven en fluidos limpios y minimalistas, creando una estética de alta costura urbana. Diseñado estrictamente para marcas que quieren cobrar precios premium y dejar de verse como el resto.",
+    "price": 300,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773707496008-lm5f8w-VANTT_STUDIOS_VOL_01_PREVIEW.png",
+    "gallery": [
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773707457815-z006tk-GALERIA-PREVIEW1.png",
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773707468058-w5msoy-GALERIA-PREVIEW2.png",
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773707477156-ctkaxq-GALERIA-PREVIEW3.png",
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773707483461-r2gqpb-GALERIA-PREVIEW4.png"
+    ],
+    "features": [
+      "Diseños Completos (Pecho y Espalda): Incluye la ilustración explosiva para la espalda y su respectivo detalle minimalista/tipográfico para el pecho (frente) de cada concepto.",
+      "Vectores Puros (Listos para DTF/Serigrafía): Archivos vectorizados de altísima calidad, trazados a la perfección sin fondos molestos ni píxeles sucios.",
+      "Estructura Profesional por Carpetas: Todo organizado meticulosamente. Una carpeta por cada diseño para que no pierdas tiempo buscando.",
+      "Versiones para Ropa Clara y Oscura: Cada diseño viene en sus dos variantes definitivas:",
+      "Versión Tinta Negra: Optimizada para estampar sobre playeras blancas, beige, grises o tonos pastel.",
+      "Versión Tinta Blanca: El vector invertido a la perfección para estallar sobre playeras negras, acid wash o tonos oscuros."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/pack-branding-v1/PACK.01.NATURALEZA.HOSTIL.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773707496008-lm5f8w-VANTT_STUDIOS_VOL_01_PREVIEW.png",
+    "galleryPathnames": [
+      "storage/assets/packs/images/1773707457815-z006tk-GALERIA-PREVIEW1.png",
+      "storage/assets/packs/images/1773707468058-w5msoy-GALERIA-PREVIEW2.png",
+      "storage/assets/packs/images/1773707477156-ctkaxq-GALERIA-PREVIEW3.png",
+      "storage/assets/packs/images/1773707483461-r2gqpb-GALERIA-PREVIEW4.png"
+    ],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-17T00:31:36.885Z"
+  }
+]
