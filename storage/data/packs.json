@@ -33,6 +33,7 @@
     ],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-17T00:31:36.885Z"
+    "createdAt": "2026-03-17T00:31:36.885Z",
+    "isUnique": true
   }
 ]
