@@ -35,5 +35,37 @@
     "purchaseCount": 0,
     "createdAt": "2026-03-17T00:31:36.885Z",
     "isUnique": true
+  },
+  {
+    "id": "pack-mmtw96ku-ubxjws",
+    "name": "PACK 02: MYTHOLOGY UNBOUND | Premium Vector Bundle",
+    "description": "Los dioses antiguos rediseñados para el futuro distópico. El Pack 02: Mythology Unbound toma la iconografía clásica de la mitología (estatuas griegas, deidades egipcias) y la destroza utilizando esquemas técnicos, blueprints y armaduras cibernéticas. La firma de esta colección es el colapso visual: el momento exacto en que la divinidad y la máquina se derriten en un flujo de cromo líquido oscuro y de alta gama. Esta es una colección pesada, intelectual y diseñada para ser el centro de atención absoluto en cualquier pump cover o prenda oversize.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773708515826-elh0wl-VANTT_STUDIOS_VOL_02_3x2_PREVIEW.png",
+    "gallery": [
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773708480927-rq7vxb-re.png",
+      "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773708490811-nyb9zr-re1.png"
+    ],
+    "features": [
+      "Diseños Exclusivos de Espalda (Back-Prints): Incluye únicamente las ilustraciones masivas y complejas para la espalda (No incluye diseños de pecho), ideales para marcas que prefieren usar su propio logo al frente y dejar la explosión de arte atrás.",
+      "Vectores de Precisión Milimétrica: Archivos vectoriales impecables, optimizados para que hasta la línea técnica más fina se imprima perfecta en DTF o Serigrafía.",
+      "Estructura Profesional por Carpetas: Orden absoluto. Cada dios/concepto tiene su propia carpeta asignada.",
+      "Versiones para Ropa Clara y Oscura: Listo para cualquier color de tela:",
+      "Versión Tinta Negra: Para estampar sobre prendas blancas o claras con un contraste agresivo.",
+      "Versión Tinta Blanca: Vector invertido listo para brillar sobre playeras negras o texturas oscuras."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Pack_Branding-v2/PACK.02.MTHOLOGY.UNBOUND.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773708515826-elh0wl-VANTT_STUDIOS_VOL_02_3x2_PREVIEW.png",
+    "galleryPathnames": [
+      "storage/assets/packs/images/1773708480927-rq7vxb-re.png",
+      "storage/assets/packs/images/1773708490811-nyb9zr-re1.png"
+    ],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-17T00:48:36.750Z"
   }
 ]
