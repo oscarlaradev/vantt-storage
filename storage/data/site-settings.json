@@ -1,4 +1,4 @@
 {
-  "siteLock": "enabled",
-  "lockHash": "de14aa475d4de375ca0bb2310de70a3a41e3e95794dc509ab7e848563d7dd35c"
+  "siteLock": "disabled",
+  "lockHash": null
 }
