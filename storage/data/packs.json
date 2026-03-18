@@ -262,5 +262,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T01:02:23.271Z"
+  },
+  {
+    "id": "pack-mmvcbqph-79p4qb",
+    "name": "Diseño 05: \"Navegación del Vacío // VOID WALKER\"",
+    "description": "Una aguja norte minimalista, tomada del astrolabio, ilustrada en blueprint técnico. Precisa, sobria y elegante, funciona como símbolo discreto de orientación en medio del vacío.",
+    "price": 5,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795975163-b2rlbp-5-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.5.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773795975163-b2rlbp-5-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T01:06:16.181Z"
   }
 ]
