@@ -141,5 +141,29 @@
     "purchaseCount": 0,
     "createdAt": "2026-03-18T00:47:44.620Z",
     "isUnique": true
+  },
+  {
+    "id": "pack-mmvbrfcv-12m4zl",
+    "name": "Diseño 07: \"Ciber-Columna // UPGRADE REQUIRED\"",
+    "description": "Una espina dorsal completa, reforzada con cables y detalles cibernéticos, ilustrada en estilo vectorial plano y de alto contraste. La sección inferior se derrite como metal líquido, fusionándose con la tipografía urbana líquida que lee “UPGRADE REQUIRED”, cuyas letras también se disuelven en goteos negros. La composición genera un flujo visual perfecto entre anatomía y máquina, con un aire oscuro y elegante propio del tech-wear de alta gama.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795027350-qv9q6k-7-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original exclusivo.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.7.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773795027350-qv9q6k-7-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T00:50:28.351Z"
   }
 ]
