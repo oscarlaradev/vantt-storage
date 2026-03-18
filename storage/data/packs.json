@@ -190,5 +190,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T00:54:42.713Z"
+  },
+  {
+    "id": "pack-mmvc089e-6eil3t",
+    "name": "Diseño 02: \"Filo Quebrado // NIGHT RUNNER\"",
+    "description": "Una katana rota, mostrada en esquema técnico con líneas de medición. El filo quebrado y la empuñadura se derriten surrealmente en un charco líquido metálico, fusionándose con la tipografía urbana líquida que lee “NIGHT RUNNER”. Las letras se disuelven hacia arriba en líneas onduladas que se integran con el patrón técnico de la espada, creando una armonía visual entre arma y palabra. El resultado es un diseño crudo, elegante y de alto impacto, perfecto para streetwear con carácter.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795438015-2790n4-2-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.2.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773795438015-2790n4-2-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T00:57:19.058Z"
   }
 ]
