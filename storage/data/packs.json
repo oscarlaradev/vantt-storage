@@ -164,6 +164,7 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T00:50:28.351Z"
+    "createdAt": "2026-03-18T00:50:28.351Z",
+    "isUnique": true
   }
 ]
