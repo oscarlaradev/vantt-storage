@@ -238,5 +238,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T01:00:18.163Z"
+  },
+  {
+    "id": "pack-mmvc6qzr-1byll3",
+    "name": "Diseño 04: \"Curva de Datos // REALITY BENDS\"",
+    "description": "Un tesseract (cubo 4D) en colapso, ilustrado como blueprint técnico con estética neo-gótica. La base se derrite en un charco líquido metálico, fusionándose con la tipografía brutalista que lee “REALITY BENDS”, cuyas letras se disuelven en goteos negros que se integran perfectamente con la estructura geométrica. El resultado es un diseño abstracto, oscuro y de alto impacto, ideal para tech-wear y streetwear conceptual.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795742188-afi0d5-4-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original exclusivo.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.4.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773795742188-afi0d5-4-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T01:02:23.271Z"
   }
 ]
