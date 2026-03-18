@@ -286,5 +286,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T01:06:16.181Z"
+  },
+  {
+    "id": "pack-mmvcemtz-n4785m",
+    "name": "Diseño 06: \"Navegación del Vacío // VOID WALKER\"",
+    "description": "Un astrolabio complejo fusionado con brújula náutica, construido con círculos concéntricos, engranajes y constelaciones en estilo blueprint neo-gótico. La mitad inferior se derrite en gotas metálicas perfectas, formando un charco líquido controlado. Sobre la estructura, la tipografía industrial en mayúsculas lee “VOID WALKER”, cuyas letras se disuelven en líneas negras que se integran con el astrolabio, creando un flujo visual impecable entre palabra y símbolo. El resultado es un diseño monumental, oscuro y elegante, ideal para streetwear de inspiración aeroespacial.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773796110179-x6agpr-6-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.6.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773796110179-x6agpr-6-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T01:08:31.127Z"
   }
 ]
