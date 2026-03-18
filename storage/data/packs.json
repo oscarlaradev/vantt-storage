@@ -214,5 +214,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T00:57:19.058Z"
+  },
+  {
+    "id": "pack-mmvc42gj-tz03cs",
+    "name": "Diseño 03: \"Curva de Datos // REALITY BENDS\"",
+    "description": "Un cubo isométrico en estilo wireframe minimalista, construido con líneas geométricas precisas. Una de sus esquinas se derrite surrealmente en pequeños puntos de datos, evocando un glitch controlado y elegante.",
+    "price": 5,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795617075-65z45g-3-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.3.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773795617075-65z45g-3-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T01:00:18.163Z"
   }
 ]
