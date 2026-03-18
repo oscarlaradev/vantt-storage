@@ -68,5 +68,29 @@
     "purchaseCount": 0,
     "createdAt": "2026-03-17T00:48:36.750Z",
     "isUnique": true
+  },
+  {
+    "id": "pack-mmvbf9gq-85h5jt",
+    "name": "Diseño 10: \"Falla Mecánica // SYSTEM FAILURE\"",
+    "description": "Un engranaje complejo interconectado con otro más pequeño, en estilo blueprint minimalista. La base se derrite suavemente en una masa líquida negra, como mercurio controlado, transmitiendo la idea de un sistema que se desintegra con elegancia.",
+    "price": 5,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773794459768-h5h965-10-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.10.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773794459768-h5h965-10-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T00:41:00.842Z"
   }
 ]
