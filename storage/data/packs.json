@@ -116,5 +116,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T00:44:14.398Z"
+  },
+  {
+    "id": "pack-mmvbnx0s-kf565t",
+    "name": "Diseño 08: \"Ciber-Columna // UPGRADE REQUIRED\"",
+    "description": "Una vértebra humana reinterpretada en estilo técnico, con trazos de blueprint y grabado en alto contraste. El resultado es un símbolo minimalista y preciso, que transmite la idea de un cuerpo en proceso de transformación tecnológica.",
+    "price": 5,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773794863587-k5tzbg-8-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original exclusivo.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.8.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773794863587-k5tzbg-8-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T00:47:44.620Z"
   }
 ]
