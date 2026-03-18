@@ -92,5 +92,29 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T00:41:00.842Z"
+  },
+  {
+    "id": "pack-mmvbjeta-p43cfk",
+    "name": "Diseño 09: \"Falla Mecánica // SYSTEM FAILURE\"",
+    "description": "Una gran ilustración técnica de engranajes en esquema isométrico, con líneas de medición y estética arquitectónica. La mitad inferior se derrite como aceite espeso, fusionándose con la tipografía urbana líquida que lee “SYSTEM FAILURE”, cuyas letras también se disuelven en goteos negros. El resultado es un colapso visual armónico, de alto impacto y estética industrial premium.",
+    "price": 10,
+    "currency": "MXN",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773794653472-akpyvr-9-COVER.png",
+    "gallery": [],
+    "features": [
+      "Diseño original.",
+      "Vectorización profesional en color negro para camisas blancas o claras.",
+      "Vectorización en color blanco para camisas oscuras.",
+      "Máxima calidad de impresión, optimizada para streetwear premium."
+    ],
+    "fileUrl": "https://github.com/oscarlaradev/vantt-storage/releases/download/Individual-Branding/Diseno.9.zip",
+    "fileName": "",
+    "filePathname": "",
+    "fileSize": 0,
+    "imagePathname": "storage/assets/packs/images/1773794653472-akpyvr-9-COVER.png",
+    "galleryPathnames": [],
+    "isAvailable": true,
+    "purchaseCount": 0,
+    "createdAt": "2026-03-18T00:44:14.398Z"
   }
 ]
