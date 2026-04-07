@@ -137,7 +137,7 @@
     "description": "Eleva tu marca de ropa al siguiente nivel con el diseño Cyber Lotus, una fusión perfecta entre naturaleza y estética cyberpunk. Este gráfico captura la esencia del estilo streetwear moderno con detalles glitch y acabados tecnológicos precisos. Ideal para creadores que buscan un impacto visual inmediato y profesional, eliminando la necesidad de retoques adicionales. Es la pieza clave para colecciones que buscan diferenciarse con un arte conceptual fuerte y una ejecución técnica impecable.",
     "price": 0,
     "currency": "MXN",
-    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775528813310-6qhexn-VANTT_STUDIOS_VOL_01_3x2.png",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775578867506-z694ju-VANTT_STUDIOS_VOL_01_4x3.png",
     "gallery": [],
     "features": [
       "Archivo vectorizado en negro de la más alta calidad",
@@ -151,11 +151,12 @@
     "fileName": "",
     "filePathname": "",
     "fileSize": 0,
-    "imagePathname": "storage/assets/packs/images/1775528813310-6qhexn-VANTT_STUDIOS_VOL_01_3x2.png",
+    "imagePathname": "storage/assets/packs/images/1775578867506-z694ju-VANTT_STUDIOS_VOL_01_4x3.png",
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 2,
-    "createdAt": "2026-04-07T02:26:54.761Z"
+    "createdAt": "2026-04-07T02:26:54.761Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmvcemtz-n4785m",
