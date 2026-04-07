@@ -192,7 +192,7 @@
     "id": "pack-mmvcbqph-79p4qb",
     "name": "Diseño 05: \"Navegación del Vacío // VOID WALKER\"",
     "description": "Una aguja norte minimalista, tomada del astrolabio, ilustrada en blueprint técnico. Precisa, sobria y elegante, funciona como símbolo discreto de orientación en medio del vacío.",
-    "price": 5,
+    "price": 0,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795975163-b2rlbp-5-COVER.png",
     "gallery": [],
@@ -210,7 +210,8 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T01:06:16.181Z"
+    "createdAt": "2026-03-18T01:06:16.181Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmvc6qzr-1byll3",
