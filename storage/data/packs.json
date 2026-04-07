@@ -287,7 +287,7 @@
     "id": "pack-mmvbwvmh-zr9kqm",
     "name": "Diseño 01: \"Filo Quebrado // NIGHT RUNNER\"",
     "description": "Una empuñadura de katana (tsuka) ilustrada en estilo minimalista y técnico, con patrones geométricos interconectados. El diseño transmite precisión y sobriedad, ideal como símbolo discreto de poder y resistencia.",
-    "price": 5,
+    "price": 0,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795281775-b5giq1-1-COVER.png",
     "gallery": [],
@@ -305,7 +305,8 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T00:54:42.713Z"
+    "createdAt": "2026-03-18T00:54:42.713Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmvbrfcv-12m4zl",
