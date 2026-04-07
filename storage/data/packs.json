@@ -215,7 +215,7 @@
     "id": "pack-mmvc6qzr-1byll3",
     "name": "Diseño 04: \"Curva de Datos // REALITY BENDS\"",
     "description": "Un tesseract (cubo 4D) en colapso, ilustrado como blueprint técnico con estética neo-gótica. La base se derrite en un charco líquido metálico, fusionándose con la tipografía brutalista que lee “REALITY BENDS”, cuyas letras se disuelven en goteos negros que se integran perfectamente con la estructura geométrica. El resultado es un diseño abstracto, oscuro y de alto impacto, ideal para tech-wear y streetwear conceptual.",
-    "price": 10,
+    "price": 5,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795742188-afi0d5-4-COVER.png",
     "gallery": [],
@@ -233,7 +233,8 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T01:02:23.271Z"
+    "createdAt": "2026-03-18T01:02:23.271Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmvc42gj-tz03cs",
