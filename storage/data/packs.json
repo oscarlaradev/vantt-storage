@@ -57,7 +57,7 @@
     "description": "Eleva tu marca de streetwear con este diseño único que fusiona la arquitectura gótica clásica con la estética cyberpunk y glitch art. Ideal para diseñadores que buscan un impacto visual disruptivo y profesional. Este recurso elimina horas de trabajo de trazado, ofreciendo un acabado impecable listo para producción inmediata.\n\nOptimizado específicamente para la industria textil, este vector garantiza resultados nítidos en cualquier técnica de impresión. Es la pieza perfecta para quienes buscan exclusividad y calidad técnica superior en sus colecciones.",
     "price": 0,
     "currency": "MXN",
-    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775529510228-yjc09w-VANTT_STUDIOS_VOL_01_3x2-4.png",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775578952321-o7mo6m-VANTT_STUDIOS_VOL_01_4x3-4.png",
     "gallery": [],
     "features": [
       "Vectorizado en blanco de la más alta calidad",
@@ -72,11 +72,12 @@
     "fileName": "",
     "filePathname": "",
     "fileSize": 0,
-    "imagePathname": "storage/assets/packs/images/1775529510228-yjc09w-VANTT_STUDIOS_VOL_01_3x2-4.png",
+    "imagePathname": "storage/assets/packs/images/1775578952321-o7mo6m-VANTT_STUDIOS_VOL_01_4x3-4.png",
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-04-07T02:38:31.438Z"
+    "createdAt": "2026-04-07T02:38:31.438Z",
+    "isUnique": false
   },
   {
     "id": "pack-mno0ddl6-vo9mzc",
