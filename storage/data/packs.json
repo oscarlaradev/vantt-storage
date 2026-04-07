@@ -385,7 +385,7 @@
     "id": "pack-mmvbf9gq-85h5jt",
     "name": "Diseño 10: \"Falla Mecánica // SYSTEM FAILURE\"",
     "description": "Un engranaje complejo interconectado con otro más pequeño, en estilo blueprint minimalista. La base se derrite suavemente en una masa líquida negra, como mercurio controlado, transmitiendo la idea de un sistema que se desintegra con elegancia.",
-    "price": 5,
+    "price": 0,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773794459768-h5h965-10-COVER.png",
     "gallery": [],
@@ -403,7 +403,8 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T00:41:00.842Z"
+    "createdAt": "2026-03-18T00:41:00.842Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmtw96ku-ubxjws",
