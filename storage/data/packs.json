@@ -111,7 +111,7 @@
     "description": "Lleva tu marca de ropa al siguiente nivel con este diseño de estética Dark Streetwear. Esta ilustración premium combina elementos de guadaña, alambre de púas y simbología oculta con una textura grunge profesional.\n\nIdeal para diseñadores y marcas que buscan un impacto visual agresivo y de alta calidad. Olvídate de problemas de resolución; este recurso está optimizado para procesos de serigrafía y DTG, garantizando un acabado impecable en cada prenda.",
     "price": 0,
     "currency": "MXN",
-    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775529269588-8sbkit-VANTT_STUDIOS_VOL_01_3x2-2.png",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775578913096-6d48nh-VANTT_STUDIOS_VOL_01_4x3-2.png",
     "gallery": [],
     "features": [
       "Archivo vectorizado en blanco de la más alta calidad",
@@ -125,11 +125,12 @@
     "fileName": "",
     "filePathname": "",
     "fileSize": 0,
-    "imagePathname": "storage/assets/packs/images/1775529269588-8sbkit-VANTT_STUDIOS_VOL_01_3x2-2.png",
+    "imagePathname": "storage/assets/packs/images/1775578913096-6d48nh-VANTT_STUDIOS_VOL_01_4x3-2.png",
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-04-07T02:34:31.177Z"
+    "createdAt": "2026-04-07T02:34:31.177Z",
+    "isUnique": false
   },
   {
     "id": "pack-mno00hih-nnpaw3",
