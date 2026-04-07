@@ -239,7 +239,7 @@
     "id": "pack-mmvc42gj-tz03cs",
     "name": "Diseño 03: \"Curva de Datos // REALITY BENDS\"",
     "description": "Un cubo isométrico en estilo wireframe minimalista, construido con líneas geométricas precisas. Una de sus esquinas se derrite surrealmente en pequeños puntos de datos, evocando un glitch controlado y elegante.",
-    "price": 5,
+    "price": 0,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773795617075-65z45g-3-COVER.png",
     "gallery": [],
@@ -257,7 +257,8 @@
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 0,
-    "createdAt": "2026-03-18T01:00:18.163Z"
+    "createdAt": "2026-03-18T01:00:18.163Z",
+    "isUnique": false
   },
   {
     "id": "pack-mmvc089e-6eil3t",
