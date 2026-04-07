@@ -236,7 +236,7 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-18T01:02:23.271Z",
-    "isUnique": false
+    "isUnique": true
   },
   {
     "id": "pack-mmvc42gj-tz03cs",
