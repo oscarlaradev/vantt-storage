@@ -31,7 +31,7 @@
     "description": "Lleva tus diseños de moda urbana al siguiente nivel con este gráfico vectorial de estética geométrica industrial. Diseñado específicamente para marcas de streetwear que buscan un look vanguardista, este recurso combina texturas de medio tono (halftone) y efectos de spray para un acabado profesional.\n\nIdeal para creadores que necesitan piezas de alto impacto visual sin sacrificar la calidad técnica. Este diseño está optimizado para procesos de serigrafía y DTG, asegurando que cada línea y textura se imprima con total nitidez en tus prendas.",
     "price": 0,
     "currency": "MXN",
-    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775529623022-2vqzj3-VANTT_STUDIOS_VOL_01_3x2-5.png",
+    "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1775578971258-owhk74-VANTT_STUDIOS_VOL_01_4x3-5.png",
     "gallery": [],
     "features": [
       "Vectorizado en blanco y negro de la más alta calidad",
@@ -45,11 +45,12 @@
     "fileName": "",
     "filePathname": "",
     "fileSize": 0,
-    "imagePathname": "storage/assets/packs/images/1775529623022-2vqzj3-VANTT_STUDIOS_VOL_01_3x2-5.png",
+    "imagePathname": "storage/assets/packs/images/1775578971258-owhk74-VANTT_STUDIOS_VOL_01_4x3-5.png",
     "galleryPathnames": [],
     "isAvailable": true,
     "purchaseCount": 1,
-    "createdAt": "2026-04-07T02:40:24.747Z"
+    "createdAt": "2026-04-07T02:40:24.747Z",
+    "isUnique": false
   },
   {
     "id": "pack-mno0ff2m-7cajyg",
