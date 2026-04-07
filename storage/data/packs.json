@@ -442,7 +442,7 @@
     "id": "pack-mmtvnbn9-1bltc7",
     "name": "PACK 01: NATURALEZA HOSTIL | Premium Vector Bundle",
     "description": "La naturaleza no es pacífica; es letal, calculada y perfecta. El Pack 01: Naturaleza Hostil es una colección de diseño Avant-Garde que fusiona la brutalidad del mundo natural con la precisión de la ingeniería y la topografía. Olvídate de los gráficos genéricos. Cada pieza de esta colección presenta nuestro característico efecto de \"derretido líquido premium\": líneas técnicas de alto contraste que se disuelven en fluidos limpios y minimalistas, creando una estética de alta costura urbana. Diseñado estrictamente para marcas que quieren cobrar precios premium y dejar de verse como el resto.",
-    "price": 0,
+    "price": 10,
     "currency": "USD",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773793597987-ssafhl-VANTT_STUDIOS_VOL_01_4x3_PREVIEW.png",
     "gallery": [
@@ -473,6 +473,6 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-17T00:31:36.885Z",
-    "isUnique": false
+    "isUnique": true
   }
 ]
