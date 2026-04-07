@@ -409,7 +409,7 @@
     "id": "pack-mmtw96ku-ubxjws",
     "name": "PACK 02: MYTHOLOGY UNBOUND | Premium Vector Bundle",
     "description": "Los dioses antiguos rediseñados para el futuro distópico. El Pack 02: Mythology Unbound toma la iconografía clásica de la mitología (estatuas griegas, deidades egipcias) y la destroza utilizando esquemas técnicos, blueprints y armaduras cibernéticas. La firma de esta colección es el colapso visual: el momento exacto en que la divinidad y la máquina se derriten en un flujo de cromo líquido oscuro y de alta gama. Esta es una colección pesada, intelectual y diseñada para ser el centro de atención absoluto en cualquier pump cover o prenda oversize.",
-    "price": 10,
+    "price": 0,
     "currency": "MXN",
     "image": "https://raw.githubusercontent.com/oscarlaradev/vantt-storage/main/storage/assets/packs/images/1773793629513-xxvj26-VANTT_STUDIOS_VOL_01_4x3_PREVIEW.png",
     "gallery": [
@@ -436,7 +436,7 @@
     "isAvailable": true,
     "purchaseCount": 0,
     "createdAt": "2026-03-17T00:48:36.750Z",
-    "isUnique": true
+    "isUnique": false
   },
   {
     "id": "pack-mmtvnbn9-1bltc7",
